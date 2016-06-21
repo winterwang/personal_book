@@ -17,7 +17,7 @@ output:
     keep_tex: yes
 ---
 
-# Prerequisites
+# 把bookdown也当作一种记录方式
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 

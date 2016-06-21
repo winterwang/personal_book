@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "--- \ntitle: \"我的个人日记\"\nauthor: \"王超辰\"\ndate: \"始于2016年6月21日\"\nsite: bookdown::bookdown_site\ndocumentclass: book\nbibliography: [book.bib, packages.bib]\nbiblio-style: \"apalike\"\nlink-citations: true\ngithub-repo: winterwang/personal_book\ndescription: \"你正在阅读我的日记，我的想法，我的心路历程。\"\nknit: \"bookdown::render_book\"\noutput: \n  bookdown::gitbook:\n    lib_dir: \"book_assets\"\n  bookdown::pdfbook:\n    keep_tex: yes\n---\n\n# Prerequisites\n\nThis is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.\n\nFor now, you have to install the development versions of **bookdown** from Github:\n\n```{r eval=FALSE}\ndevtools::install_github(\"rstudio/bookdown\")\n```\n\nRemember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.\n\nTo compile this example to PDF, you need to install XeLaTeX.\n\n```{r include=FALSE}\n# automatically create a bib database for R packages\nknitr::write_bib(c(\n  .packages(), 'bookdown', 'knitr', 'rmarkdown'\n), 'packages.bib')\n```\n",
+    "contents" : "--- \ntitle: \"我的个人日记\"\nauthor: \"王超辰\"\ndate: \"始于2016年6月21日\"\nsite: bookdown::bookdown_site\ndocumentclass: book\nbibliography: [book.bib, packages.bib]\nbiblio-style: \"apalike\"\nlink-citations: true\ngithub-repo: winterwang/personal_book\ndescription: \"你正在阅读我的日记，我的想法，我的心路历程。\"\nknit: \"bookdown::render_book\"\noutput: \n  bookdown::gitbook:\n    lib_dir: \"book_assets\"\n  bookdown::pdfbook:\n    keep_tex: yes\n---\n\n# 把bookdown也当作一种记录方式\n\nThis is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.\n\nFor now, you have to install the development versions of **bookdown** from Github:\n\n```{r eval=FALSE}\ndevtools::install_github(\"rstudio/bookdown\")\n```\n\nRemember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.\n\nTo compile this example to PDF, you need to install XeLaTeX.\n\n```{r include=FALSE}\n# automatically create a bib database for R packages\nknitr::write_bib(c(\n  .packages(), 'bookdown', 'knitr', 'rmarkdown'\n), 'packages.bib')\n```\n",
     "created" : 1466475962927.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "852768627",
+    "hash" : "2100102688",
     "id" : "EE6CF9D8",
-    "lastKnownWriteTime" : 1466478170,
-    "last_content_update" : 1466478170,
+    "lastKnownWriteTime" : 1466484252,
+    "last_content_update" : 1466484252467,
     "path" : "/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/personal_book/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
