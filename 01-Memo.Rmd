@@ -1,0 +1,10 @@
+# 日志
+
+## 夏威夷旅行 (2) -- 海龟在沙滩上晒太阳
+
+`r Sys.Date()` written
+
+![](figure/tutle.jpg)
+
+[上回](http://winterwang.github.io/life/2016/06/09/hawaii.html)说到我们一家三口去夏威夷旅行的计划，今天就来说说，我们旅行中详细的体验吧。
+

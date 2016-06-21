@@ -1,5 +1,2 @@
 book_filename: "我的记录本"
 chapter_name: ""
-rmd_files: 
-  html: ["index.Rmd", "Memo.Rmd", "References.Rmd"]
-  latex: ["index.Rmd", "Memo.Rmd", "References.Rmd"]
