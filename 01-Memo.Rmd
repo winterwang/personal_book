@@ -42,8 +42,39 @@
 
 吹了一阵夜里的海风之后惬意满满。回家路上感觉实在是走不动了，正好有个在休息的的士司机把出租车停在这沙滩出来往马路去的地方。于是就上车回家。一路上司机师傅侃侃而谈。还给了个名片，说迷路了找我准没错。其实我知道他带着我们绕了不少路。看他块头好大就不跟他计较了。他还推荐了最佳早餐餐厅，专门吃pancake的店。给了他20美金然后赶紧上楼。感觉不太确定老美司机的热情是不是真的，怕再被他拉上车去兜夜里的夏威夷，收下的名片后来也不知所踪。反正我们自己开车有谷歌地图导航我不怕，哈哈。
 
-
-
-总结这一天: 
+总结这一天:
 初来乍到。车不习惯，路不习惯，但是很快便适应了。
 午餐$35，晚餐$55，在Waikiki路边的店随便买了些早餐和零食$23.2，晚上从Waikiki海滩打车回来绕了路花了$20。之后有天晚上又开车来了一次市区的海滩。到家之后洗澡休息，明天一早要去恐龙湾潜水。三人很快入睡。
+
+
+### 第二天5月6日
+插播：之前的日志都是在Rstudio裏面完成的，然而Rstudio至今沒有解決fcitx下中文/日語輸入法的問題，外事不決問google之後發現了名叫Atom的markdown編輯器，於是今後就開始用Atom編輯博客內容咯。
+
+上回說到了夏威夷第一日初來乍到路況不熟，我們第二日一早6點多便起牀上車，一路沿着美麗的沿海高速公路衝向期待已久的[恐龍灣Hanauma Bay](http://hanaumabaystatepark.com/)。先感嘆一句，這海真的很贊。
+
+![](figure/bay0.jpg)
+
+![](figure/bay2.jpg)
+
+從高處看藍得讓人心醉。到了沙灘前只見水清見底，那句“水至清則無魚”其實到此便失去了意義，看那水中明明就有各式各樣的熱帶魚在清水中擺尾，自如的遊動。非常愜意。
+
+![](figure/bay1.jpg)
+
+因爲帶着1歲半的小熊寶，我們倆只能輪流下海浮潛。新買的小蟻相機的水下拍攝效果的確不錯，快看我在水裏的自拍：
+
+<iframe src="https://player.vimeo.com/video/174630873?color=c9ff23" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/174630873">Myself in Hawaii diving</a>
+
+
+還有我拍的水下影像a：  
+
+<iframe src="https://player.vimeo.com/video/174633391?color=c9ff23" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+水下影像b：  
+<iframe src="https://player.vimeo.com/video/174633461?color=c9ff23" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+接下來要放我兒子的視頻了：  
+<iframe src="https://player.vimeo.com/video/174633496?color=c9ff23" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+看他光光的小腿邁入大海時純淨爽朗開心的笑聲，是不是非常的治愈？
