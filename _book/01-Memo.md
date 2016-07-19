@@ -1,6 +1,6 @@
 # 夏威夷旅行 -- 看海龟在沙滩上晒太阳
 
-`r Sys.Date()` written
+2016-07-19 written
 
 ![](figure/tutle.jpg)
 

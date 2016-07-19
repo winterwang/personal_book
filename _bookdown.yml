@@ -1,2 +1,8 @@
 book_filename: "我的记录本"
-chapter_name: ""
+new_session: yes
+
+rmd_files: [
+  "index.Rmd",
+  "01-Memo.Rmd",
+  "02-Metronidazole.Rmd",
+]
