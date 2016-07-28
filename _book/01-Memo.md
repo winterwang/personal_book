@@ -1,6 +1,6 @@
 # 夏威夷旅行 -- 看海龟在沙滩上晒太阳
 
-2016-07-19 written
+2016-07-28 written
 
 ![](figure/tutle.jpg)
 
@@ -11,11 +11,11 @@
 
 **名古屋中部机场--檀香山国际机场 JL-794 22:05--10:35 实际航行时间8小时32分钟**
 ![](figure/flight.png)
-飞机是晚上22:05起飞，我们提前一个多小时抵达机场，停车出关。顺便说一下，这次我申请了美帝的旅游签证，果然给了10年有效期。只是本身护照有效期限是截止2019年。之后如果换了新护照，估计我就要每次都背两本护照了。  
+飞机是晚上22:05起飞，我们提前一个多小时抵达机场，停车出关。顺便说一下，这次我申请了美帝的旅游签证，果然给了10年有效期。只是本身护照有效期限是截止2019年。之后如果换了新护照，估计我就要每次都背两本护照了。
 一开始担心小朋友睡不安稳。后来知道是我们想多了。不过一路上轮流抱着小孩睡也是有点累人。
-![](figure/baby.jpg)  
+![](figure/baby.jpg)
 抵达檀香山机场以后，迅速去找租车公司dollar rental car的机场接送巴士。
-![](figure/car.jpg)  
+![](figure/car.jpg)
 一路上问了好几个当地人，才找到高架底下跟车牌差不多大小的巴士停靠指示牌。这要是在日本，一定是一路都有箭头指向，不需要开口问任何人的。对待游客的细致和粗犷一目了然。顺利领到车以后便打开查好的[美食地图](https://goo.gl/vqA0wR)想去事先在Yelp上查好的["Ono Hawaiian Foods"](onohawaiianfoods.com)，也是Eri推荐的夏威夷餐厅。 但是可能由于我刚到夏威夷，既不熟悉地形，也还没适应开着的SUV。所以前后按着地址来回开了好几趟，也没看到它的门或者停车场在哪里。失去耐心以后发现离那家餐厅的地址也有点远了，于是把车停到路边去，问了一个路过的老太太，老太太也不清楚，随意就指了指不远处另一家叫做[the nook neighborhood bistro](www.the nookhonolulu.com)的餐厅说那里的汉堡还不错。并且还耐心的指导我们怎么停车。第一顿午饭也是真够折腾的。到当地时间快1点了才开始点菜。
 
 ![](figure/firstdayfood01.jpg)
@@ -35,7 +35,7 @@
 
 吃完晚饭以后趁着夜色穿过一家未知酒店，竟然就不知不觉间就来到了[Waikiki海滩](https://goo.gl/maps/uE8VTaKbDqH2)。
 
-![](figure/waikiki.jpg)  
+![](figure/waikiki.jpg)
 可以看到这酒店任性地把泳池建在海岸边上，远看在泳池里的人仿佛也在海里一样，傻傻不能分别。
 
 ![](figure/wakiki01.jpg)
@@ -66,15 +66,15 @@
 <p><a href="https://vimeo.com/174630873">Myself in Hawaii diving</a>
 
 
-還有我拍的水下影像a：  
+還有我拍的水下影像a：
 
 <iframe src="https://player.vimeo.com/video/174633391?color=c9ff23" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-水下影像b：  
+水下影像b：
 <iframe src="https://player.vimeo.com/video/174633461?color=c9ff23" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-接下來要放我兒子的視頻了：  
+接下來要放我兒子的視頻了：
 <iframe src="https://player.vimeo.com/video/174633496?color=c9ff23" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 聽他光光的小腿邁入大海時純淨爽朗&開心的笑聲，是不是非常的治愈？
@@ -83,9 +83,9 @@
 秀完在恐龍灣的浮潛，總結一下：這裏的海水，雖然魚的種類顯然沒有帛琉（Palau，大陸叫帕勞）海裏的多，顏色也不如那裏的豔麗（我至今清楚地記得手中握住水母的柔韌感和它的閃閃發光，還有nemo從我耳邊遊過的樣子），沙灘也沒有那邊的白，但是我想應該是受緯度的影響吧，帛琉更加靠近赤道，氣候更加熱帶。然而因爲不是一家人一起去的，我對夏威夷的海評價更高。也許將來有機會帶家人一起去一次帛琉，印象會發生改變也未必。另外帛琉的話，當時都是跟着幾位同事，前輩和老師去浮潛，乘快艇或者參加旅遊的package之類的。因此不曉得有沒有像夏威夷這樣低價或者開放的海岸讓遊客浮潛。有去過的觀衆可以考慮幫忙補充一下。
 
 浮潛大約玩到中午，我們離開恐龍灣打算去找剛路上經過的一個餐廳，名叫[“The Original Roy's in Hawaii Kai”](http://www.royshawaii.com/)，雖然我知道這家店會有點貴，但是竟然沒有人告訴我，它沒有午餐服務的！！！！！所以我們白跑了一趟，然後我家夫人還把小朋友的玻璃奶瓶打碎了，在我忙於在建築物中找這家餐廳的時候。因此我們只好就近找到[Outback steakhouse](https://goo.gl/maps/HEaeWC72heu)，很不情願的吃了一頓沒什麼滋味，沒什麼夏威夷風的美式牛排。不過這家Outback靠海邊窗口的椅子到了晚上一定會很搶手吧，直接可以看着海浪拍上沙灘，然後一邊啃着牛肉豈不是很愜意。之前來過幾次美帝，所以對美帝人民飯量和一般牛肉的分量也有心裏準備。就是說基本上點一個漢堡，我吃半個就能飽了的那種。我家夫人尚無此概念，所以看她猶豫了半天以後點的牛排還有她無奈的表情：
-![](figure/steak.jpg)  
+![](figure/steak.jpg)
 這是我點的漢堡：
-![](figure/burger.jpg)  
+![](figure/burger.jpg)
 
 吃過漢堡以後（其中一大半我們打包帶走了......），我們在Outback的outback停車場裏休息了一個下午，4點多5點時午覺醒來，我們繼續驅車往北十幾分鍾，來到了白天是海洋館，晚上是原住民自助美食的[Chief‘s Luau](https://goo.gl/maps/RyvbF1sTecG2)來參加Eri推薦的篝火自助晚餐：
 
@@ -110,4 +110,11 @@
 
 整個演出從傍晚5點左右一直持續到8點多，一開始天還亮的時候主持人還會帶我們一起跳草裙舞(フラダンス)，後面天黑以後還有精彩的篝火表演。全程幾乎無尿點，夏威夷原住民，當然還有附近海域其他島嶼居民的文化得以充分展現，非常的有意思，而且自助餐的夥食也非常不錯，[感謝Eri的推薦](http://www.chiefsluau.com/)。
 
-我們8點多看完演出後，又緊趕慢趕驅車去市中心的沃爾瑪購買奶瓶，順便也買一些第二天的早餐。找了在沃爾瑪找了大半天也沒用找到玻璃瓶的嬰兒奶瓶。問了服務員說我們沒有玻璃的，只有塑料的。於是只好放棄，買了個$1的塑料奶瓶將就一下。回到家裏也是夜裏11點，三人累得精疲力竭，我們第三天的計劃是去[KCC Market](http://hfbf.org/markets/markets/kcc/) + 爬鑽石山 the Diamond Mountain + 夏威夷夜景。
+我們8點多看完演出後，又緊趕慢趕驅車去市中心的沃爾瑪購買奶瓶，順便也買一些第二天的早餐。找了在沃爾瑪找了大半天也沒用找到玻璃瓶的嬰兒奶瓶。問了服務員說我們沒有玻璃的，只有塑料的。於是只好放棄，買了個$1的塑料奶瓶將就一下。回到家裏已是夜裏11點，三人累得精疲力竭，我們第三天的計劃是去[KCC Market](http://hfbf.org/markets/markets/kcc/) + 爬鑽石山 the Diamond Mountain + 夏威夷夜景。
+
+
+## 第三天5月7日
+
+这一天我们之所以安排了去[KCC市场](http://hfbf.org/markets/markets/kcc/)，很大部分也是因为Eri在Airbnb上面的推荐，然后还有就是我家夫人不知道从哪里听来的有人说【去夏威夷一定要抽时间去看看KCC market】，因此我們也相當期待這個每周六才有的一個早市。一早起來還有些微微細雨，我们便带上小熊驱车来这个KCC市场。
+
+看地图，平时KCC市场是应该是一所社区大学(Kapiolani Community College)只是到了周六早晨才變成一个農貿市場一樣的集市。
