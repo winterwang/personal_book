@@ -1,10 +1,6 @@
 {
-    "path" : "/media/ccwang-letsnote/Windows/Users/Chaochen_Wang/Dropbox/github_projects/personal_book",
+    "path" : "~/Dropbox/github_projects/personal_book",
     "sortOrder" : [
-        {
-            "ascending" : false,
-            "columnIndex" : 3
-        },
         {
             "ascending" : true,
             "columnIndex" : 2
